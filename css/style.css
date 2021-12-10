@@ -290,6 +290,13 @@ div#bs-example-navbar-collapse-1 {
 .intro{
   margin-top:10px;
 }
+
+.summary{
+  margin-top:10px;
+  margin-bottom:20px;
+  text-align: center;
+  font-size: 20px;
+}
   .avatar>img{
      width: 90%;
   }
